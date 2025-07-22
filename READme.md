@@ -48,3 +48,5 @@ Header: x-api-key: secret123
 {
   "report": "# 📊 Market Analysis Report: Technology\n\n## Input News\n- headline 1\n- headline 2\n..."
 }
+
+## Setup & Run
