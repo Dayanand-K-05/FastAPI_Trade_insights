@@ -35,9 +35,6 @@ This ensures a stable user experience while demonstrating AI integration logic.
 
 ---
 
-## 🧪 Example Usage
-
-**Request:**
 
 ## 🧪 Example Usage
 
